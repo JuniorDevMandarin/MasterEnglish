@@ -1,0 +1,15 @@
+.oval{
+  background-image: url('../assets/Footer/Shape.png');
+  background-repeat: no-repeat;
+  background-position: center;
+    background-size: cover;
+  height: 400px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  display: inline-block;
+
+
+  margin-top: -350px;
+
+}

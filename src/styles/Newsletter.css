@@ -1,0 +1,78 @@
+.news {
+    margin-top: -70px;
+    color: black;
+    
+}
+.SubsTitle{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.pText{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    width: 350px;
+    opacity: 60%;
+    margin-left: 20px;
+}
+@media (max-width: 	1024px) {
+    .cusInput{
+        position: absolute;
+        margin-top: -200px;
+        margin-left: 448px;
+        display: flex;
+        align-items: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1b1d21;
+        opacity: 100%;
+    }
+    .cusSubs{
+   
+        
+ 
+        margin-top: 20px;
+        right: 80px;
+        display: flex;
+        align-items: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1b1d21;
+ 
+  
+    }
+ 
+}
+
+@media (max-width: 768px) {
+    .cusInput{
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 20px;
+        display: flex;
+        align-items: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1b1d21;
+        opacity: 100%;
+    }
+    .cusSubs{
+        position: absolute;
+        margin-top: 75px;
+        width: 131px;
+        margin-left: 230px;
+        display: flex;
+        align-items: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        line-height: 24px;
+        color: #1b1d21;
+        font-size: 12px;
+  
+    }
+}

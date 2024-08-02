@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+    .cusCont{
+        width: 65px;
+        height: 24.25px;
+        border-radius: 10px;
+        font-size: 9px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+}

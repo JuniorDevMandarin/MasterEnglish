@@ -1,0 +1,66 @@
+.input-box{
+    background: #EDEDED;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 14px 20px;
+    
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.input-box input{
+    width: 300px;
+    padding: 1px 0;
+    border: 0;
+    outline: 0;
+    
+    font-size: 15px;
+    color: #555;
+    
+}
+
+.input-box img{
+    width: 35px;
+    cursor: pointer;
+}
+.cusText{
+    margin-top: 151px;
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: -100px;
+}
+
+.cusLog{
+    margin-top: 111px;
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    margin-left: -100px;
+}
+
+.cusReg{
+    margin-top: 220px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: -100px;
+}
+
+.cusImg{
+    width: 252px;
+    height: 385px;
+    margin-left: 8rem;
+    margin-top: 12.5rem;
+}
+
+@media (max-width: 768px){
+    .cusLog{
+        margin-top: -19px;
+        font-family: "Poppins", sans-serif;
+        font-size: 30px;
+        font-weight: 500;
+        margin-left: -100px;
+    }
+}
